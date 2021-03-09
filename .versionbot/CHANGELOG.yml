@@ -1,4 +1,17 @@
 - commits:
+    - subject: test
+      hash: 806e937cf4efbe949ab752c79568d9f0bf415a97
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+      nested: []
+  version: 1.5.117
+  date: 2021-03-09T18:05:44.373Z
+- commits:
     - subject: Only cleanup temporary decompressed files in child-writer
       hash: 48b5e8b9d90fdd9df98e099db1947bb6b2490a5a
       body: ''
