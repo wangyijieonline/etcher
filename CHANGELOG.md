@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.117
+## (2021-03-15)
+
+* Update electron from 9.4.1 to 11.2.3 [Alexis Svinartchouk]
+
+<details>
+<summary> Update etcher-sdk from 6.1.0 to 6.1.1 [Alexis Svinartchouk] </summary>
+
+> ## etcher-sdk-6.1.1
+> ### (2021-02-10)
+> 
+> 
+> <details>
+> <summary> Update node-raspberrypi-usbboot from 0.2.10 to 0.2.11 [Alexis Svinartchouk] </summary>
+> 
+>> ### node-raspberrypi-usbboot-0.2.11
+>> #### (2021-02-10)
+>> 
+>> * Update @balena.io/usb from 1.3.12 to 1.3.14 [Alexis Svinartchouk]
+>> 
+> </details>
+> 
+> 
+</details>
+
 # v1.5.116
 ## (2021-02-03)
 
