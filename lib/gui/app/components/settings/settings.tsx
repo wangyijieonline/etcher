@@ -17,7 +17,7 @@
 import GithubSvg from '@fortawesome/fontawesome-free/svgs/brands/github.svg';
 import * as _ from 'lodash';
 import * as React from 'react';
-import { Flex, Checkbox, Txt } from 'rendition';
+import { Flex, Checkbox, Txt, Heading } from 'rendition';
 
 import { version, packageType } from '../../../../../package.json';
 import * as settings from '../../models/settings';
@@ -82,11 +82,7 @@ export function SettingsModal({ toggleModal }: SettingsModalProps) {
 
 	return (
 		<Modal
-			titleElement={
-				<Txt fontSize={24} mb={24}>
-					Settings
-				</Txt>
-			}
+			titleElement={<Heading.h3 color="#5a82a9">Information</Heading.h3>}
 			done={() => toggleModal(false)}
 		>
 			<Flex flexDirection="column">
