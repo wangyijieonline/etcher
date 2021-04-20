@@ -1,4 +1,15 @@
 - commits:
+    - subject: nominal change
+      hash: 4be6c96150c5b765c18f83686f37234078ecff7e
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Zane Hitchcox
+      nested: []
+  version: 1.5.118
+  date: 2021-04-20T01:41:54.179Z
+- commits:
     - subject: Rename mac releases (keep old naming)
       hash: 0bdea5c54ca1465d89c73cd269e60ebb24c79f0f
       body: ''
