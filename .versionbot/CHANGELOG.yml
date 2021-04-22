@@ -1,4 +1,13 @@
 - commits:
+    - subject: 'patch: faster webpack builds'
+      hash: 528065e241ad655986614e9a57b75c209f95a378
+      body: ''
+      footer: {}
+      author: Zane Hitchcox
+      nested: []
+  version: 1.5.118
+  date: 2021-04-22T22:45:16.541Z
+- commits:
     - subject: Rename mac releases (keep old naming)
       hash: 0bdea5c54ca1465d89c73cd269e60ebb24c79f0f
       body: ''
