@@ -1,4 +1,23 @@
 - commits:
+    - subject: Empty
+      hash: 38c2560d8059ef61001a35898ba5f17553457810
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: ab77
+      nested: []
+    - subject: Update README.md
+      hash: 29d544eab52f7367e709d66071bff5eeeaaa14f8
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Giovanni Garufi
+      nested: []
+  version: 1.5.121
+  date: 2021-05-31T23:23:07.783Z
+- commits:
     - subject: Update README to reference Cloudsmith
       hash: 7e333caaf9d94ff90583fe897ccabb6fdf860f74
       body: ''

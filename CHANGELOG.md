@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.121
+## (2021-05-31)
+
+* Empty [ab77]
+* Update README.md [Giovanni Garufi]
+
 # v1.5.120
 ## (2021-05-11)
 
